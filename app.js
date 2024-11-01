@@ -4,7 +4,7 @@ let name = "maryam";
 
 console.log(name);
 
-let age=25
+let age=22
 
 console.log(age);
 
